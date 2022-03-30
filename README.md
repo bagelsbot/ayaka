@@ -1,7 +1,7 @@
 # ayaka
 Simple discord bot for personal learning purposes
 
-Will be slowly adding feature I want to try out as I learn.
+Will be slowly adding features I want to try out as I learn.
 
 # Current commands:
 
